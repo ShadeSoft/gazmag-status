@@ -15,6 +15,7 @@ status-website:
   logoUrl: https://gazmag.hu/icon/logo-icon.svg
   favicon: https://gazmag.hu/favicon.ico
   name: GazMag Status
+  css: '@import url(/themes/dark.css) (prefers-color-scheme: dark);'
   metaTags:
     - name: 'color-scheme'
       content: 'dark light'
