@@ -1,9 +1,13 @@
 owner: ShadeSoft
 repo: gazmag-status
-
+user-agent: ShadeSoft
 sites:
   - name: GazMag
     url: https://gazmag.hu
+  - name: GazMag (eu)
+    url: https://gazmag.eu
+  - name: GazMag (sk)
+    url: https://gazmag.sk
 assignees:
   - sbolch
 status-website:
@@ -11,5 +15,16 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /gazmag-status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://gazmag.hu/icon/logo-icon.svg
+  favicon: https://gazmag.hu/favicon.ico
   name: GazMag Status
+  metaTags:
+    - name: 'color-scheme'
+      content: 'dark light'
+    - name: 'robots'
+      content: 'noindex'
+  navbar:
+    - title: GitHub
+      href: https://github.com/ShadeSoft/gazmag-status
+    - title: Website
+      href: https://gazmag.hu
