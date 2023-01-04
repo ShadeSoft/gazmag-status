@@ -1,6 +1,7 @@
 owner: ShadeSoft
 repo: gazmag-status
 user-agent: ShadeSoft
+
 sites:
   - name: GazMag
     url: https://gazmag.hu
@@ -8,21 +9,27 @@ sites:
     url: https://gazmag.eu
   - name: GazMag (sk)
     url: https://gazmag.sk
+
 assignees:
   - sbolch
+
 status-website:
   cname: status.gazmag.hu
   logoUrl: https://gazmag.hu/icon/logo-icon.svg
   favicon: https://gazmag.hu/favicon.ico
   name: GazMag Status
   css: '@import url(/themes/night.css) (prefers-color-scheme: dark);'
+
   metaTags:
     - name: 'color-scheme'
       content: 'dark light'
     - name: 'robots'
       content: 'noindex'
+
   navbar:
+    - title: Status
+      href: /
     - title: GitHub
-      href: https://github.com/ShadeSoft/gazmag-status
+      href: https://github.com/$OWNER/$REPO
     - title: Website
       href: https://gazmag.hu
