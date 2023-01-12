@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/gazmag.hu.ico",
     "slug": "gaz-mag",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 2339,
-    "timeDay": 2208,
-    "timeWeek": 2421,
-    "timeMonth": 2339,
-    "timeYear": 2339,
-    "dailyMinutesDown": {
-      "2023-01-11": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2313,
+    "timeDay": 1815,
+    "timeWeek": 2442,
+    "timeMonth": 2313,
+    "timeYear": 2313,
+    "dailyMinutesDown": {}
   },
   {
     "name": "GazMag (eu)",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/gazmag.eu.ico",
     "slug": "gaz-mag-eu",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 4724,
-    "timeDay": 9650,
-    "timeWeek": 5670,
-    "timeMonth": 4724,
-    "timeYear": 4724,
-    "dailyMinutesDown": {
-      "2023-01-11": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 4615,
+    "timeDay": 9627,
+    "timeWeek": 5667,
+    "timeMonth": 4615,
+    "timeYear": 4615,
+    "dailyMinutesDown": {}
   },
   {
     "name": "GazMag (sk)",
@@ -50,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2480,
-    "timeDay": 2022,
-    "timeWeek": 2595,
-    "timeMonth": 2480,
-    "timeYear": 2480,
+    "time": 2466,
+    "timeDay": 2284,
+    "timeWeek": 2594,
+    "timeMonth": 2466,
+    "timeYear": 2466,
     "dailyMinutesDown": {}
   }
 ]
