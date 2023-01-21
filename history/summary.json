@@ -4,10 +4,10 @@
     "url": "https://gazmag.hu",
     "icon": "https://icons.duckduckgo.com/ip3/gazmag.hu.ico",
     "slug": "gaz-mag",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2424,
@@ -15,7 +15,9 @@
     "timeWeek": 2743,
     "timeMonth": 2424,
     "timeYear": 2424,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-21": 1
+    }
   },
   {
     "name": "GazMag (eu)",
