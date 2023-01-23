@@ -6,15 +6,15 @@
     "slug": "gaz-mag",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "98.84%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 2411,
-    "timeDay": 2243,
-    "timeWeek": 2724,
-    "timeMonth": 2411,
-    "timeYear": 2411,
+    "time": 2419,
+    "timeDay": 2649,
+    "timeWeek": 2768,
+    "timeMonth": 2419,
+    "timeYear": 2419,
     "dailyMinutesDown": {
       "2023-01-21": 17
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4290,
-    "timeDay": 2895,
-    "timeWeek": 3661,
-    "timeMonth": 4290,
-    "timeYear": 4290,
+    "time": 4251,
+    "timeDay": 3251,
+    "timeWeek": 3521,
+    "timeMonth": 4251,
+    "timeYear": 4251,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2594,
-    "timeDay": 2141,
-    "timeWeek": 2661,
-    "timeMonth": 2594,
-    "timeYear": 2594,
+    "time": 2577,
+    "timeDay": 2171,
+    "timeWeek": 2530,
+    "timeMonth": 2577,
+    "timeYear": 2577,
     "dailyMinutesDown": {}
   }
 ]
