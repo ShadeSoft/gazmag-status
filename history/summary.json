@@ -4,18 +4,19 @@
     "url": "https://gazmag.hu",
     "icon": "https://icons.duckduckgo.com/ip3/gazmag.hu.ico",
     "slug": "gaz-mag",
-    "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 2419,
     "timeDay": 2649,
     "timeWeek": 2768,
     "timeMonth": 2419,
     "timeYear": 2419,
     "dailyMinutesDown": {
+      "2023-01-23": 3,
       "2023-01-21": 17
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://gazmag.eu",
     "icon": "https://icons.duckduckgo.com/ip3/gazmag.eu.ico",
     "slug": "gaz-mag-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4251,
@@ -35,14 +36,16 @@
     "timeWeek": 3521,
     "timeMonth": 4251,
     "timeYear": 4251,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-23": 1
+    }
   },
   {
     "name": "GazMag (sk)",
     "url": "https://gazmag.sk",
     "icon": "https://icons.duckduckgo.com/ip3/gazmag.sk.ico",
     "slug": "gaz-mag-sk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -53,6 +56,8 @@
     "timeWeek": 2530,
     "timeMonth": 2577,
     "timeYear": 2577,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-23": 0
+    }
   }
 ]
