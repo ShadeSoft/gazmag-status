@@ -13,7 +13,7 @@
     "time": 2756,
     "timeDay": 2379,
     "timeWeek": 2180,
-    "timeMonth": 2855,
+    "timeMonth": 2850,
     "timeYear": 2756,
     "dailyMinutesDown": {
       "2023-01-25": 44,
@@ -34,7 +34,7 @@
     "time": 4394,
     "timeDay": 4118,
     "timeWeek": 3467,
-    "timeMonth": 4523,
+    "timeMonth": 4561,
     "timeYear": 4394,
     "dailyMinutesDown": {
       "2023-01-25": 22
@@ -45,7 +45,7 @@
     "url": "https://gazmag.sk",
     "icon": "https://icons.duckduckgo.com/ip3/gazmag.sk.ico",
     "slug": "gaz-mag-sk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -54,9 +54,10 @@
     "time": 3554,
     "timeDay": 2763,
     "timeWeek": 2528,
-    "timeMonth": 3709,
+    "timeMonth": 3750,
     "timeYear": 3554,
     "dailyMinutesDown": {
+      "2023-02-04": 0,
       "2023-01-25": 21
     }
   }
