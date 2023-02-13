@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/gazmag.hu.ico",
     "slug": "gaz-mag",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "99.89%",
-    "time": 2711,
-    "timeDay": 1753,
-    "timeWeek": 2548,
-    "timeMonth": 2884,
-    "timeYear": 2711,
+    "uptimeYear": "99.90%",
+    "time": 2706,
+    "timeDay": 2418,
+    "timeWeek": 2647,
+    "timeMonth": 2893,
+    "timeYear": 2706,
     "dailyMinutesDown": {
       "2023-01-25": 44,
       "2023-01-21": 17
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 4398,
-    "timeDay": 3139,
-    "timeWeek": 4621,
-    "timeMonth": 4305,
-    "timeYear": 4398,
+    "time": 4395,
+    "timeDay": 4213,
+    "timeWeek": 4751,
+    "timeMonth": 4321,
+    "timeYear": 4395,
     "dailyMinutesDown": {
       "2023-01-25": 22
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 3376,
-    "timeDay": 2252,
-    "timeWeek": 2557,
-    "timeMonth": 3711,
-    "timeYear": 3376,
+    "time": 3371,
+    "timeDay": 3132,
+    "timeWeek": 2687,
+    "timeMonth": 3716,
+    "timeYear": 3371,
     "dailyMinutesDown": {
       "2023-01-25": 21
     }
